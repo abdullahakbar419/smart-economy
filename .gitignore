@@ -3,8 +3,8 @@
 /public/build
 /public/hot
 /public/storage
-/public/assets
-/public/geojson
+# /public/assets
+# /public/geojson
 /public/plot
 /storage/*.key
 /storage/public/classification
